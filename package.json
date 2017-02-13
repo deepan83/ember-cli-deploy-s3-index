@@ -54,8 +54,7 @@
     "aws-sdk": "^2.1.48",
     "core-object": "^1.1.0",
     "ember-cli-babel": "^5.1.6",
-    "ember-cli-deploy-plugin": "^0.2.1",
-    "mime-types": "^2.1.9"
+    "ember-cli-deploy-plugin": "deepan83/ember-cli-deploy-plugin#master"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
